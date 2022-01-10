@@ -1,0 +1,9 @@
+p {text-align: center;}
+.container {
+    display: inline-block;
+    height : 300px;
+    width: 330px;
+   color:rgba(11, 12, 12, 0.651);
+   background-color: rgb(12, 233, 67)
+
+}

@@ -1,0 +1,19 @@
+p {text-align: center;}
+.button1 {
+    display: inline-block;
+    height : 200px;
+    width: 200px;
+   color:blue;
+   background-color: rgb(119, 179, 119)
+
+
+}
+.button2{
+    display: inline-block;
+    height : 200px;
+    width: 200px;
+   color:blue;
+   background-color: rgb(121, 87, 43)
+
+  
+}

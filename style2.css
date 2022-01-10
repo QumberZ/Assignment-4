@@ -1,0 +1,13 @@
+p{text-align: center;}
+.hover {
+    display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: rgb(20, 1, 1);
+        color: #198a77;
+        background-color: #143dac;
+        border-radius: 10px;
+        outline: black;
+
+  
+}
